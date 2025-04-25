@@ -9,7 +9,7 @@ public class HelloController {
     
     @RequestMapping("/")
     public String index() {
-        return "Hello World\n vle 6 \n by devesh RA2211027010133";
+        return "Hello World\n vle 7 \n by devesh RA2211027010133 for the implementation of blue green deployment";
     }
     
 }
